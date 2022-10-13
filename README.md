@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!👋;+I'm+Alessandro...;+Nice+to+meet+you!&center=true&size=290&font=Fira+Code&size=25&color=F7F7F7&background=000000&center=true&vCenter=true&width=450&duration=5999&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!;+I'm+Alessandro...;+Nice+to+meet+you!&center=true&size=290&font=Fira+Code&size=25&color=F7F7F7&background=000000&center=true&vCenter=true&width=450&duration=4999&pause=1000">
 </div>
  
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
@@ -12,7 +12,7 @@
 <div>
   <a href="https://github.com/AlessandroVasconcelos">
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroVasconcelos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="left" height="99em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=7&theme=dark"/>
+  <img align="left" height="95em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=7&theme=dark"/>
 </a>
 </div>
 </p>
