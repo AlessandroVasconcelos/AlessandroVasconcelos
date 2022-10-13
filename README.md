@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!👋;+I'm+Alessandro...;+Nice+to+meet+you!&center=true&size=290&font=Fira+Code&size=25&color=F7F7F7&background=000000&center=true&vCenter=true&width=435">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!👋;+I'm+Alessandro...;+Nice+to+meet+you!&center=true&size=290&font=Fira+Code&size=25&color=F7F7F7&background=000000&center=true&vCenter=true&width=450&duration=5980&pause=1000">
 </div>
  
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
@@ -12,7 +12,7 @@
 <div>
   <a href="https://github.com/AlessandroVasconcelos">
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroVasconcelos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="left" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=7&theme=dark"/>
+  <img align="left" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=7&theme=dark"/>
 </a>
 </div>
 </p>
@@ -46,3 +46,17 @@
 </div>
  
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+
+
+<h3 align="center">
+  <b>🏆 All Trophies:</b>
+</h3>
+  <p align="center"> 
+    <a href="https://github-profile-trophy.vercel.app/?username=AlessandroVasconcelos
+&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=AlessandroVasconcelos&theme=algolia" alt="lucasmarcuzo" /></a>
+  </p> 
+
+
+<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+
+<div align="right"> <h3> - Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h3> </div>
