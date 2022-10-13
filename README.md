@@ -53,7 +53,7 @@
 </h3>
   <p align="center"> 
     <a href="https://github-profile-trophy.vercel.app/?username=AlessandroVasconcelos
-&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=AlessandroVasconcelos&theme=algolia" alt="lucasmarcuzo" /></a>
+&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=AlessandroVasconcelos&theme=algolia" alt="AlessandroVasconcelos" /></a>
   </p> 
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
