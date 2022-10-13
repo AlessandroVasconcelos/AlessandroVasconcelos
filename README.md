@@ -11,8 +11,8 @@
 <p>
 <div>
   <a href="https://github.com/AlessandroVasconcelos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroVasconcelos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=7&theme=dark"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroVasconcelos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=7&theme=dark"/>
 </a>
 </div>
 </p>
@@ -24,7 +24,7 @@
 <h3 align="left">
 <b> 🖥 <i>Languages:</i></b>
 </h3>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
