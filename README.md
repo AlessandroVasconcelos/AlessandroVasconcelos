@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!👋;+I'm+Alessandro...;+Nice+to+meet+you!&center=true&size=290&font=Fira+Code&size=25&color=F7F7F7&background=000000&center=true&vCenter=true&width=450&duration=5980&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!👋;+I'm+Alessandro...;+Nice+to+meet+you!&center=true&size=290&font=Fira+Code&size=25&color=F7F7F7&background=000000&center=true&vCenter=true&width=450&duration=5999&pause=1000">
 </div>
  
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
@@ -56,7 +56,13 @@
 &theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=AlessandroVasconcelos&theme=algolia" alt="lucasmarcuzo" /></a>
   </p> 
 
+<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+
+![Snake animation](https://github.com/AlessandroVasconcelos/AlessandroVasconcelos/blob/output/github-contribution-grid-snake.svg)
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
-<div align="right"> <h3> - Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h3> </div>
+<div align="right">
+<h3>- Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+</h3>
+</div>
