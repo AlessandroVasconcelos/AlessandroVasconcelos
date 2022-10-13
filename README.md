@@ -6,12 +6,12 @@
  
  
 <h3 align="center">
-<b>👨‍💻 Top Languages Repo and Commit Details:</b>
+<b>👨‍💻 <i>Top Languages Repo and Commit Details:</i></b>
 </h3>
 <p>
 <div>
   <a href="https://github.com/AlessandroVasconcelos">
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroVasconcelos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroVasconcelos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&border_radius=4.5"/>
   <img align="left" height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=7&theme=dark"/>
 </a>
 </div>
@@ -58,9 +58,12 @@
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
+
 ![Snake animation](https://github.com/AlessandroVasconcelos/AlessandroVasconcelos/blob/output/github-contribution-grid-snake.svg)
 
+
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+
 
 <div align="right">
 <h3>- Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
