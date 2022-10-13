@@ -1,12 +1,12 @@
 <div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!👋;+I'm+Alessandro...;+Nice+to+meet+you!&center=true&size=290&font=Fira+Code&size=30&color=F7F7F7&background=000000&center=true&vCenter=true&width=435">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!👋;+I'm+Alessandro...;+Nice+to+meet+you!&center=true&size=290&font=Fira+Code&size=25&color=F7F7F7&background=000000&center=true&vCenter=true&width=435">
 </div>
  
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
  
  
 <h3 align="center">
-<b>👨‍💻 Top Languages Repo and Commit Details</b>
+<b>👨‍💻 Top Languages Repo and Commit Details:</b>
 </h3>
 <p>
 <div>
