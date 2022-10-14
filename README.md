@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!;+I'm+Alessandro...;+Nice+to+meet+you!&center=true&size=290&font=Fira+Code&size=25&color=F7F7F7&background=000000&center=true&vCenter=true&width=450&duration=4999&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!;+I'm+Alessandro+Vasconcelos;+Nice+to+meet+you!&center=true&size=290&font=Fira+Code&size=25&color=F7F7F7&background=000000&center=true&vCenter=true&width=450&duration=2999&pause=200">
 </div>
  
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
@@ -20,11 +20,12 @@
 
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
- 
+
+
+<div style="display: inline_block">
 <h3 align="left">
 <b> 🖥 <i>Languages:</i></b>
 </h3>
-<div style="display: inline_block">
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
@@ -53,7 +54,7 @@
 </h3>
   <p align="center"> 
     <a href="https://github-profile-trophy.vercel.app/?username=AlessandroVasconcelos
-&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=AlessandroVasconcelos&theme=algolia" alt="AlessandroVasconcelos" /></a>
+&theme=onestar"><img src="https://github-profile-trophy.vercel.app/?username=AlessandroVasconcelos&theme=onestar" alt="AlessandroVasconcelos" /></a>
   </p> 
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
