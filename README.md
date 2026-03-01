@@ -5,18 +5,8 @@
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
  
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="left">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlessandroVasconcelos&theme=github_dark" alt="Top languages by repo" />
-      </td>
-      <td align="right">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlessandroVasconcelos&theme=github_dark" alt="General stats" />
-      </td>
-    </tr>
-  </table>
-</div>
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlessandroVasconcelos&theme=github_dark) 
+![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlessandroVasconcelos&theme=github_dark)
 
 
 
@@ -55,7 +45,7 @@
   <b>🏆 <i>All Trophies:</i></b>
 </h3>
 <p align='center'>
-<img src='https://hacked-github-stat-trophies.vercel.app/?username=AlessandroVasconcelos&theme=github_dark&column=11'>
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=AlessandroVasconcelos&theme=onedark&column=11'>
 </p> 
 
   
@@ -78,21 +68,3 @@
 </h3>
 </div>
 
-
-
-
-
-<!--
-<h3 align="center">
-<b>👨‍💻 <i>Top Languages Repo and Commit Details:</i></b>
-</h3>
-<p>
-<div>
-  <a href="https://github.com/AlessandroVasconcelos">
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroVasconcelos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&border_radius=4.5"/>
-  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&langs_count=10&theme=dark&layout=compact"/>
-</a>
-</div>
-</p>
-</details>
--->
