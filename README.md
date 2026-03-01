@@ -4,19 +4,20 @@
  
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
  
- 
-<h3 align="center">
-<b>👨‍💻 <i>Top Languages Repo and Commit Details:</i></b>
-</h3>
-<p>
-<div>
-  <a href="https://github.com/AlessandroVasconcelos">
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroVasconcelos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&border_radius=4.5"/>
-  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&langs_count=10&theme=dark&layout=compact"/>
-</a>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="left">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlessandroVasconcelos&theme=github_dark" alt="Top languages by repo" />
+      </td>
+      <td align="right">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlessandroVasconcelos&theme=github_dark" alt="General stats" />
+      </td>
+    </tr>
+  </table>
 </div>
-</p>
-</details>
+
 
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
@@ -53,15 +54,20 @@
 <h3 align="center">
   <b>🏆 <i>All Trophies:</i></b>
 </h3>
-  <p align="center"> 
-    <a href="https://github-profile-trophy.vercel.app/?username=AlessandroVasconcelos
-&theme=onestar"><img src="https://github-profile-trophy.vercel.app/?username=AlessandroVasconcelos&theme=onestar" alt="AlessandroVasconcelos" /></a>
-  </p> 
+<p align='center'>
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=AlessandroVasconcelos&theme=github_dark&column=11'>
+</p> 
+
+  
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
 
-![Snake animation](https://github.com/AlessandroVasconcelos/AlessandroVasconcelos/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/output/pacman-contribution-graph.svg">
+</picture>
 
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
@@ -71,3 +77,22 @@
 <h3>- Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 </h3>
 </div>
+
+
+
+
+
+<!--
+<h3 align="center">
+<b>👨‍💻 <i>Top Languages Repo and Commit Details:</i></b>
+</h3>
+<p>
+<div>
+  <a href="https://github.com/AlessandroVasconcelos">
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroVasconcelos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&border_radius=4.5"/>
+  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&langs_count=10&theme=dark&layout=compact"/>
+</a>
+</div>
+</p>
+</details>
+-->
