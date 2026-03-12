@@ -4,11 +4,8 @@
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
  
-![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlessandroVasconcelos&theme=github_dark&include_all_commits=true)
+![General stats](https://github-readme-stats.vercel.app/api?username=AlessandroVasconcelos&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=10&theme=github_dark)
-  <a href="https://github.com/AlessandroVasconcelos?tab=repositories" target="_blank">
-    <img src="./botao.svg" alt="My Repositories Button">
-  </a>
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
@@ -26,14 +23,13 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  
-  
 </div>
 
-
-
-
-
+<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<h3 align="center">
+  <a href="https://github.com/AlessandroVasconcelos?tab=repositories" target="_blank">
+    <img src="./botao.svg" alt="My Repositories Button">
+  </a>
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
 <h3 align="center">
