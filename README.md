@@ -5,8 +5,8 @@
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
  
 
-![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlessandroVasconcelos&theme=github_dark) 
-![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlessandroVasconcelos&theme=github_dark)
+![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlessandroVasconcelos&theme=github_dark&include_all_commits=true)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=10&theme=github_dark)
 
 
 
