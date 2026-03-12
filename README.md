@@ -28,11 +28,11 @@
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
   <b>📦 <i>My Repositories:</i></b><br>
-  <img src="bar.gif" width="220" height="3" alt="borda superior"><br>
+
   <a href="https://github.com/AlessandroVasconcelos?tab=repositories" target="_blank">
     <img src="./box.png" alt="My GitHub Repositories" width="220">
   </a><br>
-  <img src="bar.gif" width="220" height="3" alt="borda inferior">
+
 
 </div>
  
