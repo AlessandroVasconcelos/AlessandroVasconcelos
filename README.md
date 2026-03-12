@@ -26,18 +26,7 @@
 </div>
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
-
-  <b>📦 <i>My Repositories:</i></b><br>
-
-  <a href="https://github.com/AlessandroVasconcelos?tab=repositories" target="_blank">
-    <img src="./box.png" alt="My GitHub Repositories" width="220">
-  </a><br>
-
-
-</div>
  
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
-
 
 <h3 align="center">
   <b>🏆 <i>All Trophies:</i></b>
