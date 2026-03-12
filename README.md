@@ -4,41 +4,14 @@
  
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
  
-
 ![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlessandroVasconcelos&theme=github_dark&include_all_commits=true)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=10&theme=github_dark)
 
-
-
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
-
-
-<div style="display: inline_block">
-<h3 align="left">
-<b> 🖥 <i>Technologies & Tools:</i></b>
-</h3>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>
-
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
  
-<h3 align="left">
-  <b>📱 <i>Connect with me:</i></b>
-</h3>
-<div>
-  <a href="https://www.linkedin.com/in/alessandro-vasconcelos-1520781a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://mailto:alessandro.fin.jf@gmail.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/alessandro.vasconcelos_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://github.com/AlessandroVasconcelos"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" arget="_blank"></a>
-</div>
+| <div align="center">🖥 <i><b>Technologies & Tools:</b></i></div> | <div align="center"><img src="bar.gif" width="226" height="3" alt="borda superior"><br>📦 <i><b>My Repositories:</b></i></div> |
+| --- | --- |
+| <div align="center"><img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> <img alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"> <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></div> | <div align="center"><img src="https://singlecolorimage.com/get/007bff/3x90" width="3" height="90" align="middle" alt="borda esquerda"><a href="https://github.com/AlessandroVasconcelos?tab=repositories" target="_blank"><img src="./box.png" alt="My GitHub Repositories" width="220" align="middle"></a><img src="https://singlecolorimage.com/get/007bff/3x90" width="3" height="90" align="middle" alt="borda direita"><br><img src="bar.gif" width="226" height="3" alt="borda inferior"></div> ||
  
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
