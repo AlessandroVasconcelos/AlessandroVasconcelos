@@ -1,7 +1,7 @@
 <div align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!;+I'm+Alessandro+Vasconcelos;+Nice+to+meet+you!&center=true&size=290&font=Fira+Code&size=25&color=F7F7F7&background=000000&center=true&vCenter=true&width=450&duration=2999&pause=200">
 </div>
- 
+
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
  
 ![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlessandroVasconcelos&theme=github_dark&include_all_commits=true)
@@ -26,7 +26,14 @@
 </div>
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
- 
+
+<b>📦 <i>My Repositories:</i></b><br>
+  <a href="https://github.com/AlessandroVasconcelos?tab=repositories" target="_blank">
+    <img src="./box.png" alt="My GitHub Repositories" width="220">
+  </a><br>
+
+
+<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
 <h3 align="center">
   <b>🏆 <i>All Trophies:</i></b>
