@@ -4,7 +4,7 @@
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
  
-![General stats](https://github-readme-stats.vercel.app/api?username=AlessandroVasconcelos&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true)
+![General stats](https://github-readme-stats.vercel.app/api?username=AlessandroVasconcelos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=10&theme=github_dark)
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
