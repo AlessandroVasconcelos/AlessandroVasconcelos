@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!;+I'm+Alessandro+Vasconcelos;+Nice+to+meet+you!&center=true&size=290&font=Fira+Code&size=25&color=F7F7F7&background=000000&center=true&vCenter=true&width=450&duration=2999&pause=200">
 </div>
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="100%" height="5" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/refs/heads/main/bar.svg" /></a>
  
 ![General stats](https://github-readme-stats.vercel.app/api?username=AlessandroVasconcelos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=10&theme=github_dark)
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="100%" height="5" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/refs/heads/main/bar.svg" /></a>
 
 <div style="display: inline_block">
   <h3 align="left">
@@ -27,14 +27,14 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="100%" height="5" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/refs/heads/main/bar.svg" /></a>
 
 <h3 align="center">
   <a href="https://github.com/AlessandroVasconcelos?tab=repositories" target="_blank">
     <img src="./botao.svg" alt="My Repositories Button">
   </a>
   
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="100%" height="5" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/refs/heads/main/bar.svg" /></a>
 
 <h3 align="center">
   <b>🏆 <i>All Trophies:</i></b>
@@ -44,7 +44,7 @@
 </p> 
 
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="100%" height="5" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/refs/heads/main/bar.svg" /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/output/pacman-contribution-graph-dark.svg">
@@ -52,7 +52,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/output/pacman-contribution-graph.svg">
 </picture>
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="100%" height="5" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/refs/heads/main/bar.svg" /></a>
 
 <h3 align="left">
   <b>📱 <i>Connect with me:</i></b>
