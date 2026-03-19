@@ -1,16 +1,1 @@
-<img width="100%" height="6" src="data:image/svg+xml;utf8,
-<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 6' preserveAspectRatio='none'>
-  <defs>
-    <linearGradient id='g' x1='0%' y1='0%' x2='100%' y2='0%' spreadMethod='repeat'>
-      <stop offset='0%' stop-color='red' />
-      <stop offset='20%' stop-color='orange' />
-      <stop offset='40%' stop-color='yellow' />
-      <stop offset='60%' stop-color='cyan' />
-      <stop offset='80%' stop-color='blue' />
-      <stop offset='100%' stop-color='red' />
-    </linearGradient>
-  </defs>
-  <rect x='0' y='0' width='2000' height='6' fill='url(%23g)'>
-    <animate attributeName='x' from='0' to='-1000' dur='4s' repeatCount='indefinite' />
-  </rect>
-</svg>"/>
+<img width="100%" height="6" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAwIDYnIHByZXNlcnZlQXNwZWN0UmF0aW89J25vbmUnPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0nZycgeDE9JzAlJyB5MT0nMCUnIHgyPScxMDAlJyB5Mj0nMCUnPjxzdG9wIG9mZnNldD0nMCUnIHN0b3AtY29sb3I9J3JlZCcgLz48c3RvcCBvZmZzZXQ9JzIwJScgc3RvcC1jb2xvcj0nb3JhbmdlJyAvPjxzdG9wIG9mZnNldD0nNDAlJyBzdG9wLWNvbG9yPSd5ZWxsb3cnIC8+PHN0b3Agb2Zmc2V0PSc2MCUnIHN0b3AtY29sb3I9J2N5YW4nIC8+PHN0b3Agb2Zmc2V0PSc4MCUnIHN0b3AtY29sb3I9J2JsdWUnIC8+PHN0b3Agb2Zmc2V0PScxMDAlJyBzdG9wLWNvbG9yPSdyZWQnIC8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0nMCcgeT0nMCcgd2lkdGg9JzIwMDAnIGhlaWdodD0nNicgZmlsbD0ndXJsKCNnKSc+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0neCcgZnJvbT0nMCcgdG89Jy0xMDAwJyBkdXI9JzRzJyByZXBlYXRDb3VudD0naW5kZWZpbml0ZScgLz48L3JlY3Q+PC9zdmc+"/>
