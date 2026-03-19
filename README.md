@@ -2,16 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!;+I'm+Alessandro+Vasconcelos;+Nice+to+meet+you!&center=true&size=290&font=Fira+Code&size=25&color=F7F7F7&background=000000&center=true&vCenter=true&width=450&duration=2999&pause=200">
 </div>
 
-<img src="bar.gif" width="100%">
-<img src="bar.gif" width="100%" height="5">
-<img src="bar.gif" width="100%" style="height:5px;">
-![bar](bar.gif)
-<img src="bar.gif" width="100%" height="4">
-<p align="center">
-  <img src="rainbow_bar.gif" width="100%" alt="Linha colorida animada">
-</p>
-
-
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
  
 ![General stats](https://github-readme-stats.vercel.app/api?username=AlessandroVasconcelos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
