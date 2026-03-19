@@ -8,7 +8,6 @@
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=10&theme=github_dark)
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
-<img src="bar.gif" width="100%">
 
 <div style="display: inline_block">
   <h3 align="left">
@@ -29,10 +28,12 @@
 </div>
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+
 <h3 align="center">
   <a href="https://github.com/AlessandroVasconcelos?tab=repositories" target="_blank">
     <img src="./botao.svg" alt="My Repositories Button">
   </a>
+  
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
 <h3 align="center">
@@ -42,10 +43,8 @@
 <img src='https://hacked-github-stat-trophies.vercel.app/?username=AlessandroVasconcelos&theme=onedark&column=11'>
 </p> 
 
-  
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/output/pacman-contribution-graph-dark.svg">
@@ -53,10 +52,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/output/pacman-contribution-graph.svg">
 </picture>
 
-
-
-
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+
 <h3 align="left">
   <b>📱 <i>Connect with me:</i></b>
 </h3>
