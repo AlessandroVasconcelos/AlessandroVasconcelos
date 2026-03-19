@@ -8,6 +8,7 @@
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=10&theme=github_dark)
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<img src="bar.gif" width="100%">
 
 <div style="display: inline_block">
   <h3 align="left">
