@@ -2,20 +2,29 @@
   <style>
     @keyframes slide {
       from { transform: translateX(0); }
-      /* Move exatamente a metade da largura total do grupo animado */
       to { transform: translateX(-50%); }
     }
     .rainbow-line {
-      /* Velocidade ajustada para 6s para esticar o comprimento com suavidade */
-      animation: slide 2s linear infinite;
+      /* Velocidade ajustada para fluidez: 1.5s é rápido e constante */
+      animation: slide 1.5s linear infinite;
     }
   </style>
   <defs>
+    <!-- O segredo está na distribuição exata: 100/7 = ~14.28 -->
     <linearGradient id="rainbowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff0000" />   <stop offset="15%" stop-color="#ffff00" />  <stop offset="30%" stop-color="#00ff00" />  <stop offset="45%" stop-color="#00ffff" />  <stop offset="60%" stop-color="#0000ff" />  <stop offset="75%" stop-color="#7f00ff" />  <stop offset="85%" stop-color="#ff00ff" />  <stop offset="100%" stop-color="#ff0000" /> </linearGradient>
+      <stop offset="0%" stop-color="#ff0000" />
+      <stop offset="14.28%" stop-color="#ffff00" />
+      <stop offset="28.57%" stop-color="#00ff00" />
+      <stop offset="42.85%" stop-color="#00ffff" />
+      <stop offset="57.14%" stop-color="#0000ff" />
+      <stop offset="71.42%" stop-color="#ff00ff" />
+      <stop offset="85.71%" stop-color="#ff0000" />
+      <stop offset="100%" stop-color="#ffff00" />
+    </linearGradient>
   </defs>
   
   <g class="rainbow-line">
+    <!-- Dois retângulos colados que formam um padrão contínuo -->
     <rect x="0" y="3" width="1000" height="2" fill="url(#rainbowGrad)" />
     <rect x="1000" y="3" width="1000" height="2" fill="url(#rainbowGrad)" />
   </g>
