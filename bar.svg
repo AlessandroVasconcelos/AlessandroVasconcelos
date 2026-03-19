@@ -1,28 +1,22 @@
-<svg width="100%" height="10" viewBox="0 0 1000 10" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+<svg width="100%" height="8" viewBox="0 0 1000 8" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
   <style>
     @keyframes slide {
       from { transform: translateX(0); }
+      /* Move exatamente a metade da largura total do grupo animado */
       to { transform: translateX(-50%); }
     }
     .rainbow-line {
-      animation: slide 3s linear infinite;
+      /* Velocidade ajustada para 6s para esticar o comprimento com suavidade */
+      animation: slide 6s linear infinite;
     }
   </style>
   <defs>
     <linearGradient id="rainbowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff0000" />
-      <stop offset="20%" stop-color="#ffff00" />
-      <stop offset="40%" stop-color="#00ff00" />
-      <stop offset="60%" stop-color="#00ffff" />
-      <stop offset="80%" stop-color="#0000ff" />
-      <stop offset="100%" stop-color="#ff0000" />
-    </linearGradient>
+      <stop offset="0%" stop-color="#ff0000" />   <stop offset="15%" stop-color="#ffff00" />  <stop offset="30%" stop-color="#00ff00" />  <stop offset="45%" stop-color="#00ffff" />  <stop offset="60%" stop-color="#0000ff" />  <stop offset="75%" stop-color="#7f00ff" />  <stop offset="85%" stop-color="#ff00ff" />  <stop offset="100%" stop-color="#ff0000" /> </linearGradient>
   </defs>
-  <!-- Fundo escuro opcional para destacar a linha -->
-  <rect width="1000" height="10" fill="#0d1117" /> 
   
   <g class="rainbow-line">
-    <rect x="0" y="4" width="1000" height="2" fill="url(#rainbowGrad)" />
-    <rect x="1000" y="4" width="1000" height="2" fill="url(#rainbowGrad)" />
+    <rect x="0" y="3" width="1000" height="2" fill="url(#rainbowGrad)" />
+    <rect x="1000" y="3" width="1000" height="2" fill="url(#rainbowGrad)" />
   </g>
 </svg>
