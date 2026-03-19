@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!;+I'm+Alessandro+Vasconcelos;+Nice+to+meet+you!&center=true&size=290&font=Fira+Code&size=25&color=F7F7F7&background=000000&center=true&vCenter=true&width=450&duration=2999&pause=200">
 </div>
 
-<a align="left" href="#"><img width="100%" height="1" src="https://github.com/user-attachments/assets/cfb8b570-2aab-49f0-9afa-df0856b38c9f" /></a>
-![Image](https://github.com/user-attachments/assets/cfb8b570-2aab-49f0-9afa-df0856b38c9f)
+<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
  
 ![General stats](https://github-readme-stats.vercel.app/api?username=AlessandroVasconcelos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=10&theme=github_dark)
