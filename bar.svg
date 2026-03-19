@@ -7,7 +7,7 @@
     }
     .rainbow-line {
       /* Velocidade ajustada para 6s para esticar o comprimento com suavidade */
-      animation: slide 6s linear infinite;
+      animation: slide 2s linear infinite;
     }
   </style>
   <defs>
