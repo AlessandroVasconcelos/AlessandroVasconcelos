@@ -53,10 +53,21 @@
 </picture>
 
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
+
+<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<h3 align="left">
+  <b>📱 <i>Connect with me:</i></b>
+</h3>
+<div>
+  <a href="https://www.linkedin.com/in/alessandro-vasconcelos-1520781a5/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" target="_blank"></a>
+  <a href = "mailto:alessandro.fin.jf@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.instagram.com/alessandro.vasconcelos_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a>
+</div>
 
 <div align="right">
 <h3>- Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 </h3>
 </div>
+
+
