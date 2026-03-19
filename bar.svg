@@ -1,1 +1,28 @@
-<img width="100%" height="6" src="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 6' preserveAspectRatio='none'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='red'/%3E%3Cstop offset='20%25' stop-color='orange'/%3E%3Cstop offset='40%25' stop-color='yellow'/%3E%3Cstop offset='60%25' stop-color='cyan'/%3E%3Cstop offset='80%25' stop-color='blue'/%3E%3Cstop offset='100%25' stop-color='red'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='2000' height='6' fill='url(%23g)'%3E%3Canimate attributeName='x' from='0' to='-1000' dur='4s' repeatCount='indefinite'/%3E%3C/rect%3E%3C/svg%3E"/>
+<svg width="100%" height="10" viewBox="0 0 1000 10" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <style>
+    @keyframes slide {
+      from { transform: translateX(0); }
+      to { transform: translateX(-50%); }
+    }
+    .rainbow-line {
+      animation: slide 3s linear infinite;
+    }
+  </style>
+  <defs>
+    <linearGradient id="rainbowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0000" />
+      <stop offset="20%" stop-color="#ffff00" />
+      <stop offset="40%" stop-color="#00ff00" />
+      <stop offset="60%" stop-color="#00ffff" />
+      <stop offset="80%" stop-color="#0000ff" />
+      <stop offset="100%" stop-color="#ff0000" />
+    </linearGradient>
+  </defs>
+  <!-- Fundo escuro opcional para destacar a linha -->
+  <rect width="1000" height="10" fill="#0d1117" /> 
+  
+  <g class="rainbow-line">
+    <rect x="0" y="4" width="1000" height="2" fill="url(#rainbowGrad)" />
+    <rect x="1000" y="4" width="1000" height="2" fill="url(#rainbowGrad)" />
+  </g>
+</svg>
