@@ -5,7 +5,7 @@
       to { transform: translateX(-1000px); } /* Move exatamente uma unidade de ciclo */
     }
     .liquid-line {
-      animation: move-it 4s linear infinite; /* 'linear' é essencial para não ter pausa */
+      animation: move-it 5s linear infinite; /* 'linear' é essencial para não ter pausa */
     }
   </style>
   <defs>
