@@ -9,8 +9,10 @@
 -->
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlessandroVasconcelos&theme=github_dark" height="500" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=10&theme=github_dark" height="500" />
 </p>
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=10&theme=github_dark)
+
 
 <a align="left" href="#"><img width="100%" height="5" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/refs/heads/main/bar.svg" /></a>
 
