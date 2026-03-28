@@ -8,13 +8,8 @@
 ![General stats](https://github-readme-stats.vercel.app/api?username=AlessandroVasconcelos&show_icons=true&theme=github_dar&include_all_commits=true&count_private=true)
 -->
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlessandroVasconcelos&theme=github_dark" width="100%" height="20000"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=10&theme=github_dark" width="40%" />
-</p>
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlessandroVasconcelos&theme=github_dark)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroVasconcelos&layout=compact&langs_count=10&theme=github_dark)
 
 <a align="left" href="#"><img width="100%" height="5" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/refs/heads/main/bar.svg" /></a>
 
