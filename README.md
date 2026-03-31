@@ -46,13 +46,44 @@
   
 <a align="left" href="#"><img width="100%" height="5" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/refs/heads/main/bar.svg" /></a>
 
+<h3>🏅 Badges/Certificates</h3>
+
+<a href="https://www.credly.com/badges/c2c6772f-9cf2-4d38-a9bd-be04b0b7f454/public_url" title="IT Support Specialist Career Path">
+  <img src="https://images.credly.com/images/0d2f3dee-c2b4-469e-9445-fbf6fa019b9a/blob" width="80" height="80">
+</a>
+<a href="https://www.credly.com/badges/80643058-31a5-4095-a980-c2a8c4599bc3/public_url" title="IT Customer Support Basics">
+  <img src="https://images.credly.com/size/160x160/images/474a03c6-b5e1-44df-b313-adf0fed6c531/blob" width="80" height="80">
+</a>
+<a href="https://www.credly.com/badges/121fc8ca-7622-4be1-9318-fa8397c68e08/public_url" title="Introduction to Cybersecurity">
+  <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="80" height="80">
+</a>
+<a href="https://www.cloudskillsboost.google/paths/31/course_templates/153" title="Fundamentos da computação do Google Cloud: noções básicas da computação em nuvem">
+  <img src="https://cdn.qwiklabs.com/Zy9km8CJD%2FO1U6WFIWwK5bb4rxWpaUZk9LAfukirJOo%3D" width="80" height="80">
+</a>
+  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQEmSFRjCUivRQ/profile-treasury-document-images_1280/profile-treasury-document-images_1280/1/1725124341245?e=1775692800&v=beta&t=2y1_d9aKADzapREs16gPseqPS7FVq7SRAayBNdHieec" title="Inteligência Artificial e Computacional">
+    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEmSFRjCUivRQ/profile-treasury-document-images_1280/profile-treasury-document-images_1280/1/1725124341245?e=1775692800&v=beta&t=2y1_d9aKADzapREs16gPseqPS7FVq7SRAayBNdHieec" width="80">
+  </a>
+  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQG1opGw6Eo7kw/profile-treasury-document-images_1280/profile-treasury-document-images_1280/1/1725124473335?e=1775692800&v=beta&t=ZVQ3PK6CDFnQVTXUzwJ0urh1NF0zqL_8bT1rRYtb_AM" title="Cybersecurity">
+    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQG1opGw6Eo7kw/profile-treasury-document-images_1280/profile-treasury-document-images_1280/1/1725124473335?e=1775692800&v=beta&t=ZVQ3PK6CDFnQVTXUzwJ0urh1NF0zqL_8bT1rRYtb_AM" width="80">
+  </a>
+<a href="https://www.udemy.com/course/fundamentos-de-ethical-hacking/" title="Fundamentos de Ethical Hacking: curso prático">
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-a14f3a75-fb64-4245-8d84-186d8a7822a7.jpg?v=1729272352000" width="80" height="80">
+</a>
+<a href="https://media.licdn.com/dms/image/v2/D4D2DAQHjsURofD5HOA/profile-treasury-document-cover-images_1280/profile-treasury-document-cover-images_1280/0/1725124982753?e=1775606400&v=beta&t=Lr3ne7xCZ77LrjjeWsInAKrNhlCif7iGDKYCrW3gBqM" title="Linux para Programadores">
+  <img src="https://media.licdn.com/dms/image/v2/D4D2DAQHjsURofD5HOA/profile-treasury-document-cover-images_1280/profile-treasury-document-cover-images_1280/0/1725124982753?e=1775606400&v=beta&t=Lr3ne7xCZ77LrjjeWsInAKrNhlCif7iGDKYCrW3gBqM" width="80">
+</a>
+  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQGRTou6MMNXRw/profile-treasury-document-images_1280/profile-treasury-document-images_1280/1/1725124214475?e=1775692800&v=beta&t=_QxWw5g0p_CW4auFg-YbVADzlv6NRs_gvpguWoaHRes" title="Desenvolvimento de Interfaces Web com JavaScript">
+    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGRTou6MMNXRw/profile-treasury-document-images_1280/profile-treasury-document-images_1280/1/1725124214475?e=1775692800&v=beta&t=_QxWw5g0p_CW4auFg-YbVADzlv6NRs_gvpguWoaHRes" width="80">
+  </a>
+  
+<a align="left" href="#"><img width="100%" height="5" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/refs/heads/main/bar.svg" /></a>
+
 <h3 align="center">
   <b>🏆 <i>All Trophies:</i></b>
 </h3>
 <p align='center'>
 <img src='https://hacked-github-stat-trophies.vercel.app/?username=AlessandroVasconcelos&theme=onedark&column=11'>
 </p> 
-
 
 <a align="left" href="#"><img width="100%" height="5" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/refs/heads/main/bar.svg" /></a>
 
@@ -77,5 +108,13 @@
 <h3>- Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 </h3>
 </div>
+
+
+
+
+
+
+
+
 
 
