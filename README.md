@@ -14,7 +14,7 @@
 
 <div style="display: flex;">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlessandroVasconcelos&theme=dark"/>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlessandroVasconcelos&theme=dark&exclude=html,css,jupyter%20notebook,shell" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlessandroVasconcelos&theme=dark&exclude=html,jupyter%20notebook,shell" />
 </div>
 
 <a align="left" href="#"><img width="100%" height="5" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/refs/heads/main/bar.svg" /></a>
@@ -57,7 +57,7 @@
 <a href="https://www.credly.com/badges/121fc8ca-7622-4be1-9318-fa8397c68e08/public_url" title="Introduction to Cybersecurity">
   <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="80" height="80">
 </a>
-<a href="https://www.cloudskillsboost.google/paths/31/course_templates/153" title="Fundamentos da computação do Google Cloud: noções básicas da computação em nuvem">
+<a href="https://www.skills.google/public_profiles/405d21c8-0887-43c7-a448-4ba5cb99793e/badges/20361445?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share" title="Fundamentos da computação do Google Cloud: noções básicas da computação em nuvem">
   <img src="https://cdn.qwiklabs.com/Zy9km8CJD%2FO1U6WFIWwK5bb4rxWpaUZk9LAfukirJOo%3D" width="80" height="80">
 </a>
   <a href="https://media.licdn.com/dms/image/v2/D4D2DAQEmSFRjCUivRQ/profile-treasury-document-images_1280/profile-treasury-document-images_1280/1/1725124341245?e=1775692800&v=beta&t=2y1_d9aKADzapREs16gPseqPS7FVq7SRAayBNdHieec" title="Inteligência Artificial e Computacional">
@@ -66,7 +66,7 @@
   <a href="https://media.licdn.com/dms/image/v2/D4D2DAQG1opGw6Eo7kw/profile-treasury-document-images_1280/profile-treasury-document-images_1280/1/1725124473335?e=1775692800&v=beta&t=ZVQ3PK6CDFnQVTXUzwJ0urh1NF0zqL_8bT1rRYtb_AM" title="Cybersecurity">
     <img src="https://media.licdn.com/dms/image/v2/D4D2DAQG1opGw6Eo7kw/profile-treasury-document-images_1280/profile-treasury-document-images_1280/1/1725124473335?e=1775692800&v=beta&t=ZVQ3PK6CDFnQVTXUzwJ0urh1NF0zqL_8bT1rRYtb_AM" width="80">
   </a>
-<a href="https://www.udemy.com/course/fundamentos-de-ethical-hacking/" title="Fundamentos de Ethical Hacking: curso prático">
+<a href="https://www.udemy.com/certificate/UC-a14f3a75-fb64-4245-8d84-186d8a7822a7/" title="Fundamentos de Ethical Hacking: curso prático">
   <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-a14f3a75-fb64-4245-8d84-186d8a7822a7.jpg?v=1729272352000" width="80" height="80">
 </a>
 <a href="https://media.licdn.com/dms/image/v2/D4D2DAQHjsURofD5HOA/profile-treasury-document-cover-images_1280/profile-treasury-document-cover-images_1280/0/1725124982753?e=1775606400&v=beta&t=Lr3ne7xCZ77LrjjeWsInAKrNhlCif7iGDKYCrW3gBqM" title="Linux para Programadores">
