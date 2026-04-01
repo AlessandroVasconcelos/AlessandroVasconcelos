@@ -57,7 +57,7 @@
 <a href="https://www.credly.com/badges/121fc8ca-7622-4be1-9318-fa8397c68e08/public_url" title="Introduction to Cybersecurity">
   <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="80" height="80">
 </a>
-<a href="" title="Trilha de Visão Computacional">
+<a href="https://badges.parchment.com/public/assertions/eplPfUM4R0q9ZK6GHrP62g" title="Trilha de Visão Computacional">
   <img src="https://media.badges.parchment.com/uploads/badges/badge-p9uI6F_pS2K-AFIYtGcTBQ.png?versionId=wJ8VMQRv.rqLk294geMW0tUl2jHiDDdK" width="80" height="80">
 </a>
 <a href="https://www.skills.google/public_profiles/405d21c8-0887-43c7-a448-4ba5cb99793e/badges/20361445?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share" title="Fundamentos da computação do Google Cloud: noções básicas da computação em nuvem">
