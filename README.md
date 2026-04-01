@@ -46,7 +46,7 @@
   
 <a align="left" href="#"><img width="100%" height="5" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/refs/heads/main/bar.svg" /></a>
 
-<h3>🏅 Badges/Certificates</h3>
+<h3>🏅 Badges/Certificates:</h3>
 
 <a href="https://www.credly.com/badges/c2c6772f-9cf2-4d38-a9bd-be04b0b7f454/public_url" title="IT Support Specialist Career Path">
   <img src="https://images.credly.com/images/0d2f3dee-c2b4-469e-9445-fbf6fa019b9a/blob" width="80" height="80">
@@ -56,6 +56,9 @@
 </a>
 <a href="https://www.credly.com/badges/121fc8ca-7622-4be1-9318-fa8397c68e08/public_url" title="Introduction to Cybersecurity">
   <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="80" height="80">
+</a>
+<a href="" title="Trilha de Visão Computacional">
+  <img src="https://media.badges.parchment.com/uploads/badges/badge-p9uI6F_pS2K-AFIYtGcTBQ.png?versionId=wJ8VMQRv.rqLk294geMW0tUl2jHiDDdK" width="80" height="80">
 </a>
 <a href="https://www.skills.google/public_profiles/405d21c8-0887-43c7-a448-4ba5cb99793e/badges/20361445?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share" title="Fundamentos da computação do Google Cloud: noções básicas da computação em nuvem">
   <img src="https://cdn.qwiklabs.com/Zy9km8CJD%2FO1U6WFIWwK5bb4rxWpaUZk9LAfukirJOo%3D" width="80" height="80">
