@@ -19,6 +19,13 @@
 
 <a align="left" href="#"><img width="100%" height="5" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/refs/heads/main/bar.svg" /></a>
 
+<h3 align="left"><b>🖥 <i>Technologies & Tools:</i></b></h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,java,c,docker,linux,git,javascript,html,css" />
+</div>
+
+
+<!--
 <div style="display: inline_block">
   <h3 align="left">
     <b> 🖥 <i>Technologies & Tools:</i></b>
@@ -36,6 +43,7 @@
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+-->
 
 <a align="left" href="#"><img width="100%" height="5" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/refs/heads/main/bar.svg" /></a>
 
@@ -46,6 +54,24 @@
   
 <a align="left" href="#"><img width="100%" height="5" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/refs/heads/main/bar.svg" /></a>
 
+<h3>🏅 Badges/Certificates:</h3>
+<table>
+  <tr>
+    <td><a href="https://www.credly.com/badges/c2c6772f-9cf2-4d38-a9bd-be04b0b7f454/public_url" title="IT Support Specialist Career Path"><img src="https://images.credly.com/images/0d2f3dee-c2b4-469e-9445-fbf6fa019b9a/blob" width="80" height="80"></a></td>
+    <td><a href="https://www.credly.com/badges/80643058-31a5-4095-a980-c2a8c4599bc3/public_url" title="IT Customer Support Basics"><img src="https://images.credly.com/size/160x160/images/474a03c6-b5e1-44df-b313-adf0fed6c531/blob" width="80" height="80"></a></td>
+    <td><a href="https://www.credly.com/badges/121fc8ca-7622-4be1-9318-fa8397c68e08/public_url" title="Introduction to Cybersecurity"><img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="80" height="80"></a></td>
+    <td><a href="https://badges.parchment.com/public/assertions/eplPfUM4R0q9ZK6GHrP62g" title="Trilha de Visão Computacional"><img src="https://media.badges.parchment.com/uploads/badges/badge-p9uI6F_pS2K-AFIYtGcTBQ.png?versionId=wJ8VMQRv.rqLk294geMW0tUl2jHiDDdK" width="80" height="80"></a></td>
+    <td><a href="https://www.skills.google/public_profiles/405d21c8-0887-43c7-a448-4ba5cb99793e/badges/20361445?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share" title="Fundamentos da computação do Google Cloud"><img src="https://cdn.qwiklabs.com/Zy9km8CJD%2FO1U6WFIWwK5bb4rxWpaUZk9LAfukirJOo%3D" width="80" height="80"></a></td>
+        <td><a href="https://www.udemy.com/certificate/UC-a14f3a75-fb64-4245-8d84-186d8a7822a7/" title="Fundamentos de Ethical Hacking: curso prático"><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-a14f3a75-fb64-4245-8d84-186d8a7822a7.jpg?v=1729272352000" width="80" height="80"></a></td>
+    <td><a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=39a3b2ce00ee58ed1bfc4737c4f8767e&action=view" title="Inteligência Artificial e Computacional"><img src="https://github.com/user-attachments/assets/a86c9d57-8cc7-4cdc-95dd-05ca6962bc8dc" width="80" height="80"></a></td>
+    <td><a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=b538d8387cd30fa79eb65135a4a12413&action=view" title="Cybersecurity"><img src="https://github.com/user-attachments/assets/298367e8-86a9-48e2-80d1-ec45cc6eac33" width="80" height="80"></a></td>
+    <td><a href="https://media.licdn.com/dms/image/v2/D4D2DAQHjsURofD5HOA/profile-treasury-document-cover-images_1280/profile-treasury-document-cover-images_1280/0/1725124982753?e=1775606400&v=beta&t=Lr3ne7xCZ77LrjjeWsInAKrNhlCif7iGDKYCrW3gBqM" title="Linux para Programadores"><img src="https://github.com/user-attachments/assets/96ea46ea-9c18-45c2-9325-87671234936f" width="80" height="80"></a></td>
+    <td><a href="https://drive.google.com/file/d/160yqLP9suce__7VKiCjfKRE-macPmARf/view?usp=sharing" title="Desenvolvimento de Interfaces Web com JavaScript"><img src="https://github.com/user-attachments/assets/a10f26c1-0c51-4726-b2be-c67ab278fbef" width="80" height="80"></a></td>
+  </tr>
+</table>
+
+
+<!--
 <h3>🏅 Badges/Certificates:</h3>
 
 <a href="https://www.credly.com/badges/c2c6772f-9cf2-4d38-a9bd-be04b0b7f454/public_url" title="IT Support Specialist Career Path">
@@ -78,6 +104,10 @@
   <a href="https://drive.google.com/file/d/160yqLP9suce__7VKiCjfKRE-macPmARf/view?usp=sharing" title="Desenvolvimento de Interfaces Web com JavaScript">
     <img src="https://github.com/user-attachments/assets/a10f26c1-0c51-4726-b2be-c67ab278fbef" width="80">
   </a>
+-->
+
+
+  
   
 <a align="left" href="#"><img width="100%" height="5" src="https://raw.githubusercontent.com/AlessandroVasconcelos/AlessandroVasconcelos/refs/heads/main/bar.svg" /></a>
 
