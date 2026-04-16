@@ -63,6 +63,10 @@
     <td><a href="https://badges.parchment.com/public/assertions/eplPfUM4R0q9ZK6GHrP62g" title="Trilha de Visão Computacional"><img src="https://media.badges.parchment.com/uploads/badges/badge-p9uI6F_pS2K-AFIYtGcTBQ.png?versionId=wJ8VMQRv.rqLk294geMW0tUl2jHiDDdK" width="80" height="80"></a></td>
     <td><a href="https://www.skills.google/public_profiles/405d21c8-0887-43c7-a448-4ba5cb99793e/badges/20361445?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share" title="Fundamentos da computação do Google Cloud"><img src="https://cdn.qwiklabs.com/Zy9km8CJD%2FO1U6WFIWwK5bb4rxWpaUZk9LAfukirJOo%3D" width="80" height="80"></a></td>
         <td><a href="https://www.udemy.com/certificate/UC-a14f3a75-fb64-4245-8d84-186d8a7822a7/" title="Fundamentos de Ethical Hacking: curso prático"><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-a14f3a75-fb64-4245-8d84-186d8a7822a7.jpg?v=1729272352000" width="80" height="80"></a></td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td><a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=39a3b2ce00ee58ed1bfc4737c4f8767e&action=view" title="Inteligência Artificial e Computacional"><img src="https://github.com/user-attachments/assets/a86c9d57-8cc7-4cdc-95dd-05ca6962bc8dc" width="80" height="80"></a></td>
     <td><a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=b538d8387cd30fa79eb65135a4a12413&action=view" title="Cybersecurity"><img src="https://github.com/user-attachments/assets/298367e8-86a9-48e2-80d1-ec45cc6eac33" width="80" height="80"></a></td>
     <td><a href="https://media.licdn.com/dms/image/v2/D4D2DAQHjsURofD5HOA/profile-treasury-document-cover-images_1280/profile-treasury-document-cover-images_1280/0/1725124982753?e=1775606400&v=beta&t=Lr3ne7xCZ77LrjjeWsInAKrNhlCif7iGDKYCrW3gBqM" title="Linux para Programadores"><img src="https://github.com/user-attachments/assets/96ea46ea-9c18-45c2-9325-87671234936f" width="80" height="80"></a></td>
