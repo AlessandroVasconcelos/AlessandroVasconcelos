@@ -59,7 +59,7 @@
   <tr>
     <td align="center"><a href="https://www.credly.com/badges/c2c6772f-9cf2-4d38-a9bd-be04b0b7f454/public_url" title="IT Support Specialist Career Path"><img src="https://images.credly.com/images/0d2f3dee-c2b4-469e-9445-fbf6fa019b9a/blob" width="80" height="80"></a></td>
     <td align="center"><a href="https://www.credly.com/badges/80643058-31a5-4095-a980-c2a8c4599bc3/public_url" title="IT Customer Support Basics"><img src="https://images.credly.com/size/160x160/images/474a03c6-b5e1-44df-b313-adf0fed6c531/blob" width="80" height="80"></a></td>
-    <td align="center"><a href="https://www.credly.com/badges/121fc8ca-7622-4be1-9318-fa8397c68e08/public_url" title="Introduction to Cybersecurity"><img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="80" height="80"></a></td>
+    <td align="center"><a href="https://www.credly.com/badges/7e7a147f-24c9-4943-a4b9-3f9fdad087e5" title="Junior Cybersecurity Analyst Career Path"><img src="https://images.credly.com/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="80" height="80"></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://badges.parchment.com/public/assertions/eplPfUM4R0q9ZK6GHrP62g" title="Trilha de Visão Computacional"><img src="https://media.badges.parchment.com/uploads/badges/badge-p9uI6F_pS2K-AFIYtGcTBQ.png?versionId=wJ8VMQRv.rqLk294geMW0tUl2jHiDDdK" width="80" height="80"></a></td>
