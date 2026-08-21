@@ -13,7 +13,7 @@
 -->
 
 <div style="display: flex;">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlessandroVasconcelos&theme=dark"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlessandroVasconcelos&theme=github_dark"/>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlessandroVasconcelos&theme=dark&exclude=html,jupyter%20notebook,shell" />
 </div>
 
